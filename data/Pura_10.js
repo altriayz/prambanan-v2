@@ -1,0 +1,1 @@
+var json_Pura_10 = {"type":"FeatureCollection","name":"Pura_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Pura":"Pura Dharma Santi"},"geometry":{"type":"Point","coordinates":[110.496624344158633,-7.769438299164757]}}]}
